@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @therw1800
+- 👋 Hi, I’m @therw1800 - This is my new Git, away from work.
 - 👀 I’m interested in AI, ML, Open Source Projects
 - 🌱 I’m currently learning AI Python
 - 💞️ I’m looking to collaborate on Medtech, Adtech
